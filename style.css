@@ -1,0 +1,168 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .top p{
+    padding-right: 40px;
+    text-align: end;
+    font-weight: bold;
+    font-size: large;
+    font-style: normal;
+  }
+
+  header {
+    background: linear-gradient(#33ccff 0%, #ff99cc 100%);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .about h2{
+    font-style: oblique;
+    font-weight: bold;
+    padding-left: 5%;
+  }
+  .about p{
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+    max-width: 60%;
+    float: left;
+    padding-left: 8%;
+    font-size: large;
+  }
+
+  img {
+
+    float: right;
+    max-width: 20%;
+    width: 220px;
+    height: 250px;
+    padding-right: 8%;
+    padding-left: 3%;
+  }
+  
+ .resume {
+    margin-left: 20px;
+    contain-intrinsic-block-size: 20px;
+    align-content: center;
+    width: 60px;
+    padding-right: 40px;
+    padding-left: 30px;
+    background-color: #ff99cc;
+    border-radius: 5px;
+    box-shadow: 4px 6px black;
+    
+
+
+ }
+
+  footer {
+    background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+
+  .Education h2{
+    font-size: 45px;
+    font-style: oblique;
+    font-weight: bold;
+    padding-left: 12%;
+    background-color: #ff99cc;
+    height: 60px;
+    text-align: center; 
+  }
+  .Education h3{
+    font-style: oblique;
+    font-weight: bold;
+    padding-left: 5%;
+  }
+  .Education ul{
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+    max-width: 60%;
+    float: left;
+    padding-left: 8%;
+    font-size: large;
+  }
+  .Skills h2{
+    font-size: 45px;
+    font-style: oblique;
+    font-weight: bold;
+    padding-left: 12%;
+    background-color: #ff99cc;
+    height: 60px;
+    text-align: left; 
+  }
+
+  .Skills ul{
+    font-style: oblique;
+    padding: 30px;
+    max-width: 60%;
+    float: left;
+    padding-left: 8%;
+    font-size: 20px;
+  }
+  .Certification h2{
+    font-size: 45px;
+    font-style: oblique;
+    font-weight: bold;
+    padding-left: 12%;
+    background-color: #ff99cc;
+    height: 60px;
+    text-align: center; 
+  }
+
+  .Certification ul{
+    font-style: oblique;
+    padding: 30px;
+    max-width: 60%;
+    float: left;
+    padding-left: 8%;
+    font-size: 20px;
+  }
+ 
+  .Experience h2{
+    font-size: 45px;
+    font-style: oblique;
+    font-weight: bold;
+    padding-left: 12%;
+    background-color: #ff99cc;
+    height: 60px;
+    text-align: center; 
+  }
+
+  .Experience ul{
+    font-style: oblique;
+    padding: 30px;
+    max-width: 60%;
+    float: left;
+    padding-left: 8%;
+    font-size: 20px;
+  }
+  .Contact  h2{
+    font-size: 45px;
+    font-style: oblique;
+    font-weight: bold;
+    padding-left: 12%;
+    background-color: #ff99cc;
+    height: 60px;
+    text-align: center; 
+  }
+
+  .Contact ul{
+    font-style: oblique;
+    padding: 30px;
+    max-width: 60%;
+    float: left;
+    padding-left: 8%;
+    font-size: 20px;
+  }
+ 
